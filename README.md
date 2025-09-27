@@ -5,7 +5,7 @@ Award-Winning Website (Tutorial Project)
 ⚠️ Disclaimer
 All design credits go to [Zentry] (https://zentry.com/). This project is created purely for educational purposes and is not intended for commercial use or public deployment.
 
-This project is a recreation of an award-winning website built by following JavaScript Mastery’s tutorial (https://www.youtube.com/watch?v=zA9r5zTllx4&t=155s).
+This project is a recreation of an award-winning website built by following [JavaScript Mastery’s tutorial] (https://www.youtube.com/watch?v=zA9r5zTllx4&t=155s).
 
 It demonstrates:
 
